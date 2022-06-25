@@ -24,7 +24,7 @@
 <a target="_blank" href="https://www.kaggle.com/tolgaik"><img src="https://img.shields.io/badge/kaggle-%2312100E.svg?&style=for-the-badge&logo=kaggle&logoColor=white"></img></a>
 &emsp;
 <a target="_blank" href="mailto:tolgaisk10@gmail.com"
-><img src="https://img.shields.io/badge/twitter-%2312100E.svg?&style=for-the-badge&logo=gmail&logoColor=white"></img></a><br></p>
+><img src="https://img.shields.io/badge/email-%2312100E.svg?&style=for-the-badge&logo=gmail&logoColor=white"></img></a><br></p>
 
 ----
 
