@@ -28,8 +28,8 @@
 
 ----
 
-<summary><b>💻 GitHub Profile Stats</b></summary>
-<div/>
+## 💻 GitHub Profile Stats
+<div>
 <img width="49.5%"  alt="Tolgaisikp's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Tolgaisikp&show_icons=true&count_private=true&theme=nord"/>
 <img  width="49.5%"  src="https://github-readme-streak-stats.herokuapp.com/?user=Tolgaisikp&theme=nord" alt="Tolgaisikp" />
 
