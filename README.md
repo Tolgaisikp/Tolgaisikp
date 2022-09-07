@@ -11,7 +11,7 @@
 - 👯 I’m looking to collaborate on Machine Learning and Deep Learning Projects
 - 🎯 I’m currently focusing on: Computer Vision and Augmented Reality
 - 📚 I have a Bachelors in Computer Engineering from the University of Duzce at Turkey
-- 🌟 Main languages: Python
+- 🌟 Main languages: Python and R
 - 🎵 Love metal and rock music
 
 
